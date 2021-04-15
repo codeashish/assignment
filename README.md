@@ -20,7 +20,7 @@ Open [http://localhost:8080](http://localhost:8080) to view it in the browser.
 
 ## Step 1
 
-### `rename .env.env file to .env and fill all the fields`
+### `rename .env.env file in backend/config to .env and fill all the fields`
 
 ## Step 2
 ### `Open backend folder run npm install and then npm run dev`
